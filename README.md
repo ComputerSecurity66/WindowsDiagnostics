@@ -522,7 +522,7 @@ Win32_StartupCommand
 HTML Report Generation
 Windows UAC Elevation
 ```
-
+> 🔒 **This repository may be publicly visible on GitHub, but the software remains proprietary. Public access does not grant permission to modify, redistribute, or re-license the source code.**
 ---
 
 # 🚫 Proprietary Software Notice
